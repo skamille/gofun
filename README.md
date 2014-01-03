@@ -1,0 +1,4 @@
+gofun
+=====
+
+fun with go
